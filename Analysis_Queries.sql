@@ -1,7 +1,3 @@
-SELECT 
-    * 
-FROM
-    SuperMarketSale;
 -- totalSales per productLine
 SELECT 
     product_line, SUM(sales) AS total_Sales
