@@ -1,4 +1,4 @@
-             ## Supermarket Sales SQL Project
+             ** Supermarket Sales SQL Project
 
 This Project Analysis SuperMarket sales data from **Kaggle SupermarketSales Dataset** using
 **MySql**.It explores customer behavior, top products, payment methods, and city-wise performance.
